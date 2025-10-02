@@ -90,8 +90,8 @@ export default function Home() {
     <div className="min-h-screen bg-background">
       <div className="container mx-auto px-4 py-8">
         <div className="mb-8 text-center">
-          <h1 className="text-4xl font-bold mb-2">Симулятор комментариев Facebook</h1>
-          <p className="text-muted-foreground">Создавайте реалистичные комментарии Facebook для ваших нужд</p>
+          <h1 className="text-4xl font-bold mb-2">Симулятор комментариев - IgnisAeterna💎</h1>
+          <p className="text-muted-foreground">Создавайте реалистичные комментарии</p>
         </div>
 
         <div className="mb-6 max-w-md mx-auto">
